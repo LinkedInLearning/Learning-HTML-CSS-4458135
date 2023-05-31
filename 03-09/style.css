@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    grid-template-columns: 50% 25% 25%;
+}
+
+header,
+footer {
+    grid-column: 1 / span 3;
+    background-color: pink;
+    height: 80px;
+}
+
+.column-a {
+    background-color: coral;
+    height: 300px;
+}
+
+.column-b {
+    background-color: darkkhaki;
+    height: 300px;
+}
+
+.column-c {
+    background-color: firebrick;
+    height: 300px;
+}
