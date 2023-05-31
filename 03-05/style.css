@@ -1,0 +1,9 @@
+body {
+    background-color: beige;
+}
+
+div {
+    background-image: url(pattern.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
