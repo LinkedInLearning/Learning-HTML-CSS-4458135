@@ -1,0 +1,7 @@
+div {
+    background-color: turquoise;
+    width: 50%;
+    height: 70vh;
+    min-width: 420px;
+    max-height: 280px;
+}
