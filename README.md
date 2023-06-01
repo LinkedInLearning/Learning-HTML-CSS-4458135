@@ -1,7 +1,7 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# HTML/CSS 入門
+LinkedInラーニングの「HTML/CSS 入門」コース用のリポジトリです。このコースは [LinkedInラーニング][lil-course-url]で視聴できます。
 
-![course-name-alt-text][lil-thumbnail-url] 
+![HTML/CSS 入門][lil-thumbnail-url]
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
