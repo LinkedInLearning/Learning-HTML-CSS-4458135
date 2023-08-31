@@ -39,5 +39,5 @@ _インタラクションデザイナー_
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/learning-html-and-css-2023
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHbWPqWjZ-TcQ/learning-public-crop_675_1200/0/1693347773996?e=2147483647&v=beta&t=tdoawrm3Zw0IEiz_62dXscxynPbu-uNyqeDwOI6GF38
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFZGZagvWy1Bw/learning-public-crop_675_1200/0/1693421703448?e=2147483647&v=beta&t=6_vgWX64Dfpz1qzE7DUYo64e8xIOMHalOR-IYEU-x3s
 
